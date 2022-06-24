@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "book",
+            "database": "${workspaceFolder:GreHomework}/books.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
